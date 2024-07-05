@@ -1,0 +1,43 @@
+quantumsim-main-main\history\04-07-2024
+[20:40:15] Button X clicked: X
+[20:40:15] Button Y clicked: Y
+[20:40:16] Button Z clicked: Z
+[20:40:17] Button Sr clicked: Sr
+[20:40:18] Button T clicked: T
+[20:40:18] Button S clicked: S
+[20:40:19] Button I clicked: I
+[20:40:20] Button Rx clicked: Rx
+[20:40:20] Button Ry clicked: Ry
+[20:40:20] Button Rz clicked: Rz
+++++++++++++++++++++++++++++++END OF CALCULATIONS++++++++++++++++++++++++++++++++++++++
+[20:46:38] Input Matrices are
+[['X', 'Y', 'Z', 'H'], ['Sr', 'S', 'T', 'Ry'], ['Rx', 'Tt', 'Srt', 'Ry']]
+[20:46:38] Input Angles are
+['30', '30', '60']
+[20:46:38] Resultant Matrix
+[[ 0.34752987-0.26516504j]
+ [-0.35193939-0.15309311j]
+ [-0.29575318-0.06158676j]
+ [ 0.07924682+0.253118j  ]
+ [ 0.34752987-0.26516504j]
+ [-0.35193939-0.15309311j]
+ [-0.29575318-0.06158676j]
+ [ 0.07924682+0.253118j  ]]
+Number of qubits:8
+[20:52:32] Input Matrices are
+[['Rx', 'Ry', 'Rz', 'Sr', 'S', 'T']]
+[20:52:32] Input Angles are
+['30', '60', '60']
+[20:52:32] Resultant Matrix
+[[ 0.61237244-0.61237244j]
+ [-0.25      +0.4330127j ]]
+Number of qubits:2
+[20:53:21] 
+==================== End of Calculations ====================
+
+[22:02:53] 
+==================== End of Calculations ====================
+
+[22:26:13] 
+==================== End of Calculations ====================
+

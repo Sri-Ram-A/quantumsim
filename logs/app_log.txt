@@ -1,0 +1,310 @@
+[2024-07-03 10:11:50] Button Rz clicked
+[2024-07-03 10:11:53] Button Sr clicked
+[2024-07-03 10:11:53] Button Sr clicked
+[2024-07-03 10:11:57] Button I clicked
+[2024-07-03 10:11:58] Button Rz clicked
+[2024-07-03 10:11:58] Button Srt clicked
+[2024-07-03 10:12:01] Button Sr clicked
+[2024-07-03 10:12:02] Button Sr clicked
+[2024-07-03 10:12:05] Button I clicked
+[2024-07-03 10:12:05] Button I clicked
+[2024-07-03 10:12:06] Button I clicked
+[2024-07-03 10:12:08] Button I clicked
+[2024-07-03 10:12:09] Button I clicked
+[2024-07-03 10:12:11] Button Rz clicked
+[2024-07-03 10:12:12] Button Rz clicked
+[2024-07-03 10:12:12] Button Rz clicked
+[2024-07-03 10:21:23] Button T clicked
+[2024-07-03 10:21:24] Button Sr clicked
+[2024-07-03 10:21:27] Button Sr clicked
+[2024-07-03 10:21:28] Button I clicked
+[2024-07-03 10:21:31] Button I clicked
+[2024-07-03 10:21:32] Button I clicked
+[2024-07-03 10:21:33] Button Sr clicked
+[2024-07-03 10:21:33] Button P clicked
+[2024-07-03 10:21:51] Button Sr clicked
+[2024-07-03 10:21:51] Button I clicked
+[2024-07-03 10:21:52] Button Rz clicked
+[2024-07-03 10:21:55] Button Z clicked
+[2024-07-03 10:23:21] Button X clicked
+[2024-07-03 10:23:21] Button Y clicked
+[2024-07-03 10:23:22] Button Z clicked
+[2024-07-03 10:23:24] Button Sr clicked
+[2024-07-03 10:23:32] Button I clicked
+[2024-07-03 10:23:33] Button Sr clicked
+[2024-07-03 10:23:34] Button Z clicked
+[2024-07-03 10:23:43] Button Sr clicked
+[2024-07-03 10:23:44] Button Z clicked
+[2024-07-03 10:23:45] Button Sr clicked
+[2024-07-03 10:23:46] Button P clicked
+[2024-07-03 10:23:47] Button T clicked
+[2024-07-03 10:23:50] Button Z clicked
+[2024-07-03 10:23:51] Button Sr clicked
+[2024-07-03 10:23:52] Button P clicked
+[2024-07-03 10:23:52] Button T clicked
+[2024-07-03 10:23:53] Button S clicked
+[2024-07-03 10:23:58] Button Z clicked
+[2024-07-03 10:24:01] Button Srt clicked
+[2024-07-03 10:24:02] Button Rz clicked
+[2024-07-03 10:24:04] Button Ry clicked
+[2024-07-03 10:24:09] Button Rz clicked
+[2024-07-03 10:32:34] Button Z clicked
+[2024-07-03 10:32:35] Button Y clicked
+[2024-07-03 10:32:36] Button Rz clicked
+[2024-07-03 10:32:40] Button X clicked
+[2024-07-03 10:32:41] Button X clicked
+[2024-07-03 10:32:55] Button Ry clicked
+[2024-07-03 10:32:57] Button Rz clicked
+[2024-07-03 10:33:06] Button Tt clicked
+[2024-07-03 10:33:44] Button Sr clicked
+[2024-07-03 10:33:45] Button Z clicked
+[2024-07-03 10:33:47] Button Ry clicked
+[2024-07-03 10:33:52] Button I clicked
+[2024-07-03 10:33:54] Button Sr clicked
+[2024-07-03 10:33:55] Button Z clicked
+[2024-07-03 10:33:58] Button Ry clicked
+[2024-07-03 10:38:13] Button Z clicked
+[2024-07-03 12:23:20] Button T clicked
+[2024-07-03 12:39:10] Button X clicked
+[2024-07-03 12:39:14] Button Y clicked
+[2024-07-03 12:39:15] Button Z clicked
+[2024-07-03 12:39:16] Button X clicked
+[2024-07-03 12:39:27] Button X clicked
+[2024-07-03 12:39:28] Button Y clicked
+[2024-07-03 12:39:28] Button Z clicked
+[2024-07-03 12:40:34] Button X clicked
+[2024-07-03 12:40:35] Button Y clicked
+[2024-07-03 12:40:35] Button Z clicked
+[2024-07-03 12:40:37] Button X clicked
+[2024-07-03 12:40:37] Button Y clicked
+[2024-07-03 12:40:38] Button Z clicked
+[2024-07-03 12:40:38] Button H clicked
+[2024-07-03 12:40:38] Button P clicked
+[2024-07-03 12:40:39] Button Sr clicked
+[2024-07-03 12:44:59] Button X clicked
+[2024-07-03 12:45:00] Button Y clicked
+[2024-07-03 12:45:00] Button Z clicked
+[2024-07-03 12:45:29] Button X clicked
+[2024-07-03 12:45:30] Button Y clicked
+[2024-07-03 12:45:32] Button X clicked
+[2024-07-03 12:45:33] Button X clicked
+[2024-07-03 12:45:33] Button Y clicked
+[2024-07-03 12:45:36] Button X clicked
+[2024-07-03 12:45:36] Button Y clicked
+[2024-07-03 13:07:11] Button X clicked
+[2024-07-03 13:07:31] Button X clicked
+[2024-07-03 13:07:31] Button X clicked
+[2024-07-03 13:07:32] Button Y clicked
+[2024-07-03 17:34:07] Button Rz clicked: Rz
+[2024-07-03 17:34:09] Button I clicked: I
+[2024-07-03 17:34:13] Button Srt clicked: Srt
+[2024-07-03 17:36:28] Button Srt clicked: Srt
+[2024-07-03 17:36:29] Button Srt clicked: Srt
+[2024-07-03 17:36:29] Button Srt clicked: Srt
+[2024-07-03 17:36:30] Button Rz clicked: Rz
+[2024-07-03 17:36:31] Button Ry clicked: Ry
+[2024-07-03 17:36:31] Button Rx clicked: Rx
+[2024-07-03 17:50:09] Button Z clicked: Z
+[2024-07-03 17:50:09] Button Z clicked: Z
+[2024-07-03 17:50:10] Button Sr clicked: Sr
+[2024-07-03 17:50:10] Button Sr clicked: Sr
+[2024-07-03 17:50:12] Button I clicked: I
+[2024-07-03 17:50:12] Button I clicked: I
+[2024-07-03 17:50:13] Button Rz clicked: Rz
+[2024-07-03 17:50:14] Button Ry clicked: Ry
+[2024-07-03 17:50:15] Button Ry clicked: Ry
+[2024-07-03 18:37:01] Button H clicked: H
+[2024-07-03 18:37:02] Button P clicked: P
+[2024-07-03 18:37:03] Button Sr clicked: Sr
+[2024-07-03 18:37:40] Button Rx clicked: Rx
+[2024-07-03 18:37:41] Button Ry clicked: Ry
+[2024-07-03 18:37:42] Button Rz clicked: Rz
+[2024-07-03 18:37:45] Button X clicked: X
+[2024-07-03 18:37:45] Button Y clicked: Y
+[2024-07-03 18:37:47] Button Rx clicked: Rx
+[2024-07-03 18:37:53] Button S clicked: S
+[2024-07-03 18:37:55] Button T clicked: T
+[2024-07-03 18:37:56] Button St clicked: St
+[2024-07-03 18:38:57] Button Rx clicked: Rx
+[2024-07-03 18:38:57] Button Ry clicked: Ry
+[2024-07-03 18:38:58] Button Rz clicked: Rz
+[2024-07-03 18:39:01] Button X clicked: X
+[2024-07-03 18:39:03] Button Y clicked: Y
+[2024-07-03 18:39:04] Button Rx clicked: Rx
+[2024-07-03 18:39:07] Button S clicked: S
+[2024-07-03 18:39:08] Button T clicked: T
+[2024-07-03 18:39:08] Button St clicked: St
+[2024-07-03 19:25:29] Button Rx clicked: Rx
+[2024-07-03 19:25:30] Button Ry clicked: Ry
+[2024-07-03 19:25:30] Button Rz clicked: Rz
+[2024-07-03 19:25:34] Button X clicked: X
+[2024-07-03 19:25:35] Button Y clicked: Y
+[2024-07-03 19:25:36] Button Rx clicked: Rx
+[2024-07-03 19:25:40] Button S clicked: S
+[2024-07-03 19:25:41] Button T clicked: T
+[2024-07-03 19:25:45] Button St clicked: St
+[2024-07-03 19:28:18] Button Rx clicked: Rx
+[2024-07-03 19:28:18] Button Ry clicked: Ry
+[2024-07-03 19:28:19] Button Rz clicked: Rz
+[2024-07-03 19:28:22] Button X clicked: X
+[2024-07-03 19:28:24] Button Y clicked: Y
+[2024-07-03 19:28:25] Button Rx clicked: Rx
+[2024-07-03 19:28:28] Button S clicked: S
+[2024-07-03 19:28:29] Button T clicked: T
+[2024-07-03 19:28:30] Button St clicked: St
+[2024-07-03 20:23:19] Button Rx clicked: Rx
+[2024-07-03 20:23:19] Button Ry clicked: Ry
+[2024-07-03 20:23:20] Button Rz clicked: Rz
+[2024-07-03 20:23:26] Button S clicked: S
+[2024-07-03 20:23:27] Button T clicked: T
+[2024-07-03 20:23:28] Button St clicked: St
+[2024-07-03 20:23:29] Button X clicked: X
+[2024-07-03 20:23:30] Button Y clicked: Y
+[2024-07-03 20:23:30] Button Rz clicked: Rz
+[2024-07-03 20:27:02] Button X clicked: X
+[2024-07-03 20:27:03] Button Y clicked: Y
+[2024-07-03 20:27:04] Button Rz clicked: Rz
+[2024-07-03 20:27:06] Button Rx clicked: Rx
+[2024-07-03 20:27:07] Button Ry clicked: Ry
+[2024-07-03 20:27:07] Button Rz clicked: Rz
+[2024-07-03 20:38:01] Button X clicked: X
+[2024-07-03 20:38:02] Button Y clicked: Y
+[2024-07-03 20:38:03] Button Rx clicked: Rx
+[2024-07-03 20:38:05] Button Z clicked: Z
+[2024-07-03 20:38:08] Button P clicked: P
+[2024-07-03 20:38:08] Button Sr clicked: Sr
+[2024-07-03 20:38:11] Button Srt clicked: Srt
+[2024-07-03 20:38:12] Button Tt clicked: Tt
+[2024-07-03 20:38:12] Button St clicked: St
+[2024-07-03 20:40:20] Button X clicked: X
+[2024-07-03 20:40:21] Button Y clicked: Y
+[2024-07-03 20:40:22] Button Z clicked: Z
+[2024-07-03 20:40:24] Button Rx clicked: Rx
+[2024-07-03 20:40:24] Button S clicked: S
+[2024-07-03 20:40:24] Button T clicked: T
+[2024-07-03 20:40:26] Button Ry clicked: Ry
+[2024-07-03 20:40:26] Button Rz clicked: Rz
+[2024-07-03 20:40:27] Button Srt clicked: Srt
+[2024-07-03 20:41:25] Button H clicked: H
+[2024-07-03 20:41:26] Button P clicked: P
+[2024-07-03 20:41:27] Button Sr clicked: Sr
+[2024-07-03 20:41:35] Button Rx clicked: Rx
+[2024-07-03 20:41:36] Button Ry clicked: Ry
+[2024-07-03 20:41:37] Button P clicked: P
+[2024-07-03 20:41:48] Button X clicked: X
+[2024-07-03 20:41:49] Button Y clicked: Y
+[2024-07-03 20:41:49] Button T clicked: T
+[2024-07-04 06:31:41] Button X clicked: X
+[2024-07-04 06:31:42] Button Y clicked: Y
+[2024-07-04 06:31:43] Button Z clicked: Z
+[2024-07-04 06:31:46] Button P clicked: P
+[2024-07-04 06:31:47] Button Ry clicked: Ry
+[2024-07-04 06:31:48] Button I clicked: I
+[2024-07-04 06:31:49] Button Sr clicked: Sr
+[2024-07-04 06:31:50] Button T clicked: T
+[2024-07-04 06:31:51] Button S clicked: S
+[2024-07-04 06:33:15] Button X clicked: X
+[2024-07-04 06:33:16] Button Y clicked: Y
+[2024-07-04 06:33:16] Button Z clicked: Z
+[2024-07-04 06:33:18] Button Rx clicked: Rx
+[2024-07-04 06:33:19] Button P clicked: P
+[2024-07-04 06:33:20] Button Tt clicked: Tt
+[2024-07-04 06:33:22] Button I clicked: I
+[2024-07-04 06:33:24] Button S clicked: S
+[2024-07-04 06:33:24] Button T clicked: T
+[2024-07-04 06:33:56] Button X clicked: X
+[2024-07-04 06:33:57] Button Y clicked: Y
+[2024-07-04 06:33:57] Button P clicked: P
+[2024-07-04 06:34:05] Button H clicked: H
+[2024-07-04 06:34:06] Button P clicked: P
+[2024-07-04 06:34:07] Button Rx clicked: Rx
+[2024-07-04 06:34:08] Button I clicked: I
+[2024-07-04 06:34:12] Button P clicked: P
+[2024-07-04 06:34:27] Button Srt clicked: Srt
+[2024-07-04 06:34:27] Button Tt clicked: Tt
+[2024-07-04 06:34:28] Button St clicked: St
+[2024-07-04 06:34:28] Button Rx clicked: Rx
+[2024-07-04 20:19:09] Button X clicked: X
+[2024-07-04 20:19:10] Button Y clicked: Y
+[2024-07-04 20:19:11] Button Z clicked: Z
+[2024-07-04 20:19:42] Button X clicked: X
+[2024-07-04 20:19:43] Button Y clicked: Y
+[2024-07-04 20:19:44] Button Z clicked: Z
+[2024-07-04 20:19:45] Button H clicked: H
+[2024-07-04 20:19:46] Button P clicked: P
+[2024-07-04 20:19:53] Button Rx clicked: Rx
+[2024-07-04 20:19:54] Button Ry clicked: Ry
+[2024-07-04 20:19:54] Button Rz clicked: Rz
+[2024-07-04 20:19:55] Button I clicked: I
+[2024-07-04 20:20:04] Button St clicked: St
+[2024-07-04 20:20:04] Button Tt clicked: Tt
+[2024-07-04 20:20:05] Button Srt clicked: Srt
+[2024-07-04 20:20:06] Button I clicked: I
+[2024-07-04 20:20:09] Button I clicked: I
+[2024-07-04 20:20:10] Button T clicked: T
+[2024-07-04 20:20:13] Button St clicked: St
+[2024-07-04 20:20:14] Button Rx clicked: Rx
+[2024-07-04 20:20:54] Button Rz clicked: Rz
+[2024-07-04 20:25:45] Button X clicked: X
+[2024-07-04 20:25:46] Button Y clicked: Y
+[2024-07-04 20:25:49] Button Z clicked: Z
+[2024-07-04 20:25:50] Button H clicked: H
+[2024-07-04 20:25:50] Button P clicked: P
+[2024-07-04 20:25:59] Button Rx clicked: Rx
+[2024-07-04 20:25:59] Button Ry clicked: Ry
+[2024-07-04 20:26:00] Button Rz clicked: Rz
+[2024-07-04 20:26:01] Button I clicked: I
+[2024-07-04 20:26:01] Button I clicked: I
+[2024-07-04 20:26:14] Button St clicked: St
+[2024-07-04 20:26:15] Button Tt clicked: Tt
+[2024-07-04 20:26:16] Button Srt clicked: Srt
+[2024-07-04 20:26:19] Button Rz clicked: Rz
+[2024-07-04 20:26:20] Button I clicked: I
+[2024-07-04 20:26:26] Button I clicked: I
+[2024-07-04 20:26:26] Button T clicked: T
+[2024-07-04 20:26:33] Button Srt clicked: Srt
+[2024-07-04 20:26:34] Button Rz clicked: Rz
+[2024-07-04 20:26:42] Button I clicked: I
+[2024-07-04 20:27:37] Button X clicked: X
+[2024-07-04 20:27:38] Button Y clicked: Y
+[2024-07-04 20:27:40] Button Z clicked: Z
+[2024-07-04 20:27:41] Button H clicked: H
+[2024-07-04 20:27:41] Button P clicked: P
+[2024-07-04 20:27:43] Button Rx clicked: Rx
+[2024-07-04 20:27:43] Button Ry clicked: Ry
+[2024-07-04 20:27:45] Button Rz clicked: Rz
+[2024-07-04 20:27:48] Button I clicked: I
+[2024-07-04 20:27:48] Button I clicked: I
+[2024-07-04 20:27:50] Button St clicked: St
+[2024-07-04 20:27:51] Button I clicked: I
+[2024-07-04 20:27:54] Button Tt clicked: Tt
+[2024-07-04 20:27:54] Button I clicked: I
+[2024-07-04 20:27:57] Button Srt clicked: Srt
+[2024-07-04 20:28:10] Button Srt clicked: Srt
+[2024-07-04 20:28:15] Button Rz clicked: Rz
+[2024-07-04 20:28:17] Button I clicked: I
+[2024-07-04 20:28:19] Button T clicked: T
+[2024-07-04 20:28:20] Button St clicked: St
+[2024-07-04 20:28:21] Button Rx clicked: Rx
+[2024-07-04 20:28:24] Button I clicked: I
+[2024-07-04 20:32:15] Button X clicked: X
+[2024-07-04 20:32:16] Button Y clicked: Y
+[2024-07-04 20:32:17] Button Z clicked: Z
+[2024-07-04 20:32:19] Button P clicked: P
+[2024-07-04 20:32:19] Button Sr clicked: Sr
+[2024-07-04 20:32:20] Button S clicked: S
+[2024-07-04 20:32:22] Button Rx clicked: Rx
+[2024-07-04 20:32:23] Button Ry clicked: Ry
+[2024-07-04 20:32:23] Button Rz clicked: Rz
+[2024-07-04 20:36:22] Button X clicked: X
+[2024-07-04 20:36:23] Button Y clicked: Y
+[2024-07-04 20:36:23] Button Z clicked: Z
+[2024-07-04 20:36:25] Button H clicked: H
+[2024-07-04 20:36:26] Button P clicked: P
+[2024-07-04 20:36:26] Button Sr clicked: Sr
+[2024-07-04 20:36:29] Button Rx clicked: Rx
+[2024-07-04 20:36:29] Button Ry clicked: Ry
+[2024-07-04 20:36:30] Button I clicked: I
+[2024-07-04 20:36:32] Button St clicked: St
+[2024-07-04 20:36:33] Button Tt clicked: Tt
+[2024-07-04 20:36:34] Button Ry clicked: Ry

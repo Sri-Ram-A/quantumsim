@@ -1,0 +1,300 @@
+quantumsim-main-main\history\02-07-2024
+[20:05:42] 
+==================== End of Calculations ====================
+
+[20:06:12] 
+==================== End of Calculations ====================
+
+[20:08:09] Button X clicked
+[20:08:11] Button Y clicked
+[20:08:12] Button Z clicked
+[20:08:14] Button Ketzero clicked
+[20:08:16] Calculation: XYZKetzero
+[20:08:16] Angles: 
+[20:08:16] Result: [[0.+1.j]
+ [0.+0.j]]
+[20:08:16] Probability of |0> [1.]
+[20:08:16] Probability of |1> [0.]
+[20:08:47] 
+==================== End of Calculations ====================
+
+[20:20:34] 
+==================== End of Calculations ====================
+
+[20:21:47] 
+==================== End of Calculations ====================
+
+[20:24:25] Button X clicked
+[20:24:26] Button Y clicked
+[20:24:33] Button Ketone clicked
+[20:24:36] Calculation: XYKetone
+[20:24:36] Angles: 
+[20:24:36] Result: [[0.+0.j]
+ [0.-1.j]]
+[20:24:36] Probability of |0> [0.]
+[20:24:36] Probability of |1> [1.]
+[20:30:25] 
+==================== End of Calculations ====================
+
+[20:30:42] 
+==================== End of Calculations ====================
+
+[20:31:45] 
+==================== End of Calculations ====================
+
+[20:32:00] 
+==================== End of Calculations ====================
+
+[20:32:19] 
+==================== End of Calculations ====================
+
+[20:32:57] 
+==================== End of Calculations ====================
+
+[20:34:00] 
+==================== End of Calculations ====================
+
+[20:34:23] 
+==================== End of Calculations ====================
+
+[20:34:43] 
+==================== End of Calculations ====================
+
+[20:49:24] 
+==================== End of Calculations ====================
+
+[20:50:37] Button Rx clicked
+[20:50:42] Calculation: Rx
+[20:50:42] Angles: 30
+[20:50:42] Result: [[0.96592583+0.j         0.        -0.25881905j]
+ [0.        -0.25881905j 0.96592583+0.j        ]]
+[20:50:42] Probability of |0> [0.9330127 0.0669873]
+[20:50:42] Probability of |1> [0.0669873 0.9330127]
+[20:55:35] Button Srt clicked
+[21:00:03] 
+==================== End of Calculations ====================
+
+[21:06:31] 
+==================== End of Calculations ====================
+
+[21:06:54] 
+==================== End of Calculations ====================
+
+[21:07:17] 
+==================== End of Calculations ====================
+
+[21:07:34] 
+==================== End of Calculations ====================
+
+[21:08:03] 
+==================== End of Calculations ====================
+
+[21:23:16] 
+==================== End of Calculations ====================
+
+[21:27:37] 
+==================== End of Calculations ====================
+
+[21:29:18] 
+==================== End of Calculations ====================
+
+[21:30:49] 
+==================== End of Calculations ====================
+
+[21:31:25] 
+==================== End of Calculations ====================
+
+[21:32:02] 
+==================== End of Calculations ====================
+
+[21:33:17] 
+==================== End of Calculations ====================
+
+[21:34:04] 
+==================== End of Calculations ====================
+
+[21:34:56] 
+==================== End of Calculations ====================
+
+[21:35:26] 
+==================== End of Calculations ====================
+
+[21:35:46] 
+==================== End of Calculations ====================
+
+[21:36:12] 
+==================== End of Calculations ====================
+
+[21:36:46] 
+==================== End of Calculations ====================
+
+[21:37:34] 
+==================== End of Calculations ====================
+
+[21:38:29] 
+==================== End of Calculations ====================
+
+[21:41:22] 
+==================== End of Calculations ====================
+
+[21:42:04] 
+==================== End of Calculations ====================
+
+[21:42:33] 
+==================== End of Calculations ====================
+
+[21:43:17] 
+==================== End of Calculations ====================
+
+[21:52:14] 
+==================== End of Calculations ====================
+
+[21:52:34] 
+==================== End of Calculations ====================
+
+[21:53:15] 
+==================== End of Calculations ====================
+
+[21:54:07] 
+==================== End of Calculations ====================
+
+[21:54:41] Button Sr clicked
+[21:54:42] Button I clicked
+[21:54:43] Button Ry clicked
+[21:54:45] Button Ketone clicked
+[21:54:50] Calculation: SrIRyKetone
+[21:54:50] Angles: 30
+[21:54:50] Result: [[0.35355339+0.61237244j]
+ [0.35355339-0.61237244j]]
+[21:54:50] Probability of |0> [0.5]
+[21:54:50] Probability of |1> [0.5]
+[21:55:35] 
+==================== End of Calculations ====================
+
+[22:04:08] Button X clicked
+[22:04:08] Button Y clicked
+[22:04:09] Button Z clicked
+[22:04:10] Button Sr clicked
+[22:04:12] Button Ketone clicked
+[22:04:13] Calculation: XYZSrKetone
+[22:04:13] Angles: 
+[22:04:13] Result: [[-0.5+0.5j]
+ [ 0.5+0.5j]]
+[22:04:13] Probability of |0> [0.5]
+[22:04:13] Probability of |1> [0.5]
+[22:04:41] Button X clicked
+[22:04:42] Button Y clicked
+[22:04:43] Button Rx clicked
+[22:04:43] Button Ry clicked
+[22:04:45] Button Ketone clicked
+[22:04:47] Button X clicked
+[22:04:48] Button Y clicked
+[22:04:49] Button Rx clicked
+[22:04:49] Button Ry clicked
+[22:04:50] Button Ketzero clicked
+[22:05:05] Calculation: XYRxRyKetzero
+[22:05:05] Angles: 30,50
+[22:05:05] Result: [[ 0.10938165+0.8754261j ]
+ [-0.23456972-0.40821789j]]
+[22:05:05] Probability of |0> [0.7783352]
+[22:05:05] Probability of |1> [0.2216648]
+[22:05:16] 
+==================== End of Calculations ====================
+
+[22:06:07] Button X clicked
+[22:06:08] Button Y clicked
+[22:06:09] Button Rx clicked
+[22:06:09] Button Ry clicked
+[22:06:10] Button Ketzero clicked
+[22:06:17] Calculation: XYRxRyKetzero
+[22:06:17] Angles: 30,50
+[22:06:17] Result: [[ 0.10938165+0.8754261j ]
+ [-0.23456972-0.40821789j]]
+[22:06:17] Probability of |0> [0.7783352]
+[22:06:17] Probability of |1> [0.2216648]
+[22:16:19] 
+==================== End of Calculations ====================
+
+[22:16:56] 
+==================== End of Calculations ====================
+
+[22:17:08] Button X clicked
+[22:17:09] Button Y clicked
+[22:17:10] Button Z clicked
+[22:17:11] Button P clicked
+[22:17:13] Button T clicked
+[22:17:15] Button Ketone clicked
+[22:17:21] Calculation: XYZPTKetone
+[22:17:21] Angles: 25
+[22:17:21] Result: [[ 0.        +0.j        ]
+ [-0.84339145+0.53729961j]]
+[22:17:21] Probability of |0> [0.]
+[22:17:21] Probability of |1> [1.]
+[22:18:43] 
+==================== End of Calculations ====================
+
+[22:19:31] Button X clicked
+[22:19:31] Button Y clicked
+[22:19:31] Button Z clicked
+[22:19:32] Button Ry clicked
+[22:19:33] Button Rx clicked
+[22:19:33] Button Rz clicked
+[22:19:34] Button Tt clicked
+[22:19:43] Calculation: XYZRyRxRzTt
+[22:19:43] Angles: 30,30,50
+[22:19:43] Result: [[ 0.3335971 +0.87390673j -0.14941812-0.32042819j]
+ [ 0.33223151+0.12092238j  0.89965616+0.25616167j]]
+[22:19:43] Probability of |0> [0.875 0.125]
+[22:19:43] Probability of |1> [0.125 0.875]
+[22:19:58] Button X clicked
+[22:19:59] Button Y clicked
+[22:19:59] Button Z clicked
+[22:20:01] Button Tt clicked
+[22:20:02] Button Srt clicked
+[22:20:03] Button Ketone clicked
+[22:20:06] Calculation: XYZTtSrtKetone
+[22:20:06] Angles: 
+[22:20:06] Result: [[0.5+0.5j       ]
+ [0. +0.70710678j]]
+[22:20:06] Probability of |0> [0.5]
+[22:20:06] Probability of |1> [0.5]
+[22:20:25] 
+==================== End of Calculations ====================
+
+[22:37:53] 
+==================== End of Calculations ====================
+
+[22:38:32] 
+==================== End of Calculations ====================
+
+[23:01:41] Button X clicked
+[23:01:41] Button Y clicked
+[23:01:42] Button Z clicked
+[23:01:42] Button Ketzero clicked
+[23:01:45] Calculation: XYZKetzero
+[23:01:45] Angles: 
+[23:01:45] Result: [[0.+1.j]
+ [0.+0.j]]
+[23:01:45] Probability of |0> [1.]
+[23:01:45] Probability of |1> [0.]
+[23:03:31] 
+==================== End of Calculations ====================
+
+[23:37:32] 
+==================== End of Calculations ====================
+
+[23:37:52] 
+==================== End of Calculations ====================
+
+[23:38:09] 
+==================== End of Calculations ====================
+
+[23:39:13] Button X clicked
+[23:39:13] Button Y clicked
+[23:39:14] Button Z clicked
+[23:39:16] Button H clicked
+[23:39:19] Button P clicked
+[23:39:20] Button Sr clicked
+[23:39:31] 
+==================== End of Calculations ====================
+

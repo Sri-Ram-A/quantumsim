@@ -1,0 +1,46 @@
+quantumsim-main-main\history\03-07-2024
+[10:02:16] 
+==================== End of Calculations ====================
+
+[10:02:34] Button Sr clicked
+[10:02:35] Button I clicked
+[10:02:37] Button T clicked
+[10:02:38] Button P clicked
+[10:02:49] Button P clicked
+[10:02:49] Button Sr clicked
+[10:02:50] Button Z clicked
+[10:02:52] Button Rx clicked
+[10:02:52] Button Ry clicked
+[10:02:53] Button Rz clicked
+[10:43:55] Button X clicked
+[10:43:55] Button Y clicked
+[10:43:56] Button Z clicked
+[10:44:29] Button P clicked
+[10:44:30] Button Sr clicked
+[10:44:32] Button Sr clicked
+[10:44:32] Button P clicked
+[10:44:42] Button Sr clicked
+[10:44:42] Button Sr clicked
+[10:44:42] Button Sr clicked
+[10:44:45] Button Sr clicked
+[10:44:45] Button Sr clicked
+[10:46:48] 
+==================== End of Calculations ====================
+
+[10:47:18] Button X clicked
+[10:47:18] Button Y clicked
+[10:47:19] Button Z clicked
+[10:47:24] Button I clicked
+[10:47:29] Button H clicked
+[10:47:31] Button P clicked
+[10:47:34] Button T clicked
+[10:50:10] 
+==================== End of Calculations ====================
+
+[11:22:27] Button Sr clicked
+[11:22:27] Button Sr clicked
+[11:22:29] Button Sr clicked
+[11:22:29] Button Sr clicked
+[14:02:29] 
+==================== End of Calculations ====================
+

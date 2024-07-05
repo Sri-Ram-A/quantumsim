@@ -1,0 +1,17 @@
+history\04-06-2024
+[21:20:04] Button X clicked
+[21:20:05] Button Y clicked
+[21:20:06] Button Rx clicked
+[21:20:07] Button Ry clicked
+[21:20:10] Button Ketzero clicked
+[21:20:18] Calculation: XYRxRyKetzero
+[21:20:18] Angles: 30,50
+[21:20:18] Result: [[ 0.10938165+0.8754261j ]
+ [-0.23456972-0.40821789j]]
+[21:20:18] Probability of |0> [0.7783352]
+[21:20:18] Probability of |1> [0.2216648]
+[21:21:18] 
+==================== End of Calculations ====================
+
+UNDER TESTING UNDER TESTING UNDER TESTING UNDER TESTING UNDER TESTING
+
