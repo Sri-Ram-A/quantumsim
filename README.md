@@ -79,6 +79,6 @@ Thanks to these awesome folks for making this happen:
 
 - [Shashank K](https://github.com/00xshashank)
 - [SriRam A](https://github.com/Sri-Ram-A)
-- [Shishir V](https://github.com/yourusername3)
+- [Shishir V](https://github.com/ShishirV712)
 
 > Want to contribute? Fork the repo, build something cool, and send us a pull request!
