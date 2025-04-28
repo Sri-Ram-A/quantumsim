@@ -1,8 +1,4 @@
-Alright, let's cut straight to it — your README is good, but it could be **way sharper, tighter, and more impressive**, especially since your app sounds pretty badass with multi-qubit support, Bloch spheres, and live graphs.
 
-Here’s a **revamped and professional version** of your README, with room to insert the GitHub contributor links you mentioned:
-
----
 
 # Quantum Circuit Simulator
 
