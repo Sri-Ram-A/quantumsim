@@ -1,0 +1,75 @@
+quantumsim-main-main\history\28-04-2025.txt
+[11:58:46] Input Matrices are
+[]
+[11:58:46] Input Angles are
+[]
+[12:05:01] 
+==================== End of Calculations ====================
+
+[12:05:45] 
+==================== End of Calculations ====================
+
+[12:06:47] Input Matrices are
+[['X', 'Y', 'Z', 'Ketone'], []]
+[12:06:47] Input Angles are
+[]
+[12:07:18] Input Matrices are
+[['X', 'Y', 'Ketone'], []]
+[12:07:18] Input Angles are
+[]
+[12:07:30] Input Matrices are
+[['X', 'Y', 'Ketzero'], []]
+[12:07:30] Input Angles are
+[]
+[12:07:45] Input Matrices are
+[['X'], []]
+[12:07:45] Input Angles are
+[]
+[12:07:53] Input Matrices are
+[['X'], [], []]
+[12:07:53] Input Angles are
+[]
+[12:08:01] 
+==================== End of Calculations ====================
+
+[12:08:25] Input Matrices are
+[['X']]
+[12:08:25] Input Angles are
+[]
+[12:08:25] Resultant Matrix
+[[0.]
+ [1.]]
+Number of qubits:2
+[12:08:58] Input Matrices are
+[['X', 'Y', 'I', 'Ketzero']]
+[12:08:58] Input Angles are
+[]
+[12:09:42] 
+==================== End of Calculations ====================
+
+[12:10:25] Input Matrices are
+[['X', 'Ketzero']]
+[12:10:25] Input Angles are
+[]
+[12:10:43] Input Matrices are
+[['Ketzero', 'X']]
+[12:10:43] Input Angles are
+[]
+[12:16:21] Input Matrices are
+[['X'], [], []]
+[12:16:21] Input Angles are
+[]
+[12:16:26] 
+==================== End of Calculations ====================
+
+[12:17:28] Input Matrices are
+[['X']]
+[12:17:28] Input Angles are
+[]
+[12:17:28] Resultant Matrix
+[[0.]
+ [1.]]
+Number of qubits:2
+[12:18:04] 
+==================== End of Calculations ====================
+
