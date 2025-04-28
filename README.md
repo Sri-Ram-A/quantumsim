@@ -77,8 +77,8 @@ pip install -r requirements.txt
 
 Thanks to these awesome folks for making this happen:
 
-- [Contributor 1](https://github.com/00xshashank)
-- [Contributor 2](https://github.com/Sri-Ram-A)
-- [Contributor 3](https://github.com/yourusername3)
+- [Shashank K](https://github.com/00xshashank)
+- [SriRam A](https://github.com/Sri-Ram-A)
+- [Shishir V](https://github.com/yourusername3)
 
 > Want to contribute? Fork the repo, build something cool, and send us a pull request!
